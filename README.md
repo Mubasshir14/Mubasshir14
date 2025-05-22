@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. M. Mubasshir AL Kasshaf</h1>
-<h3 align="center">🚀 MERN Stack Developer | Frontend Enthusiast </h3>
+<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mubasshir14&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshir14" />
