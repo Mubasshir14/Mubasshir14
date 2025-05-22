@@ -24,7 +24,7 @@
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,express,mongodb,tailwind,bootstrap,html,css,figma,git,github,python,c,cpp,java" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,express,mongodb,postgres,prisma,mongoose,tailwind,bootstrap,html,css,figma,git,github,python,c,cpp,java,numpy,pandas" />
 </p>
 
 ---
@@ -44,6 +44,7 @@
 ### 📬 Connect With Me:
 <p align="center">
   <a href="https://linkedin.com/in/smmubasshiralkasshaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://fb.com/mubasshir al kasshaf"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+  <a href="https://fb.com/mubasshir%20al%20kasshaf"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
   <a href="https://codeforces.com/profile/mubasshir_15"><img src="https://img.shields.io/badge/CodeForces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" /></a>
+  <a href="https://developer-portfolio-eta-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 </p>
