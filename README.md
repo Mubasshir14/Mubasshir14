@@ -14,11 +14,13 @@
 ---
 
 ### 💡 About Me:
-- 🌱 Currently exploring **TypeScript, Advanced React Patterns, and Backend with Node.js.**
-- 💬 Ask me about **React, JavaScript, and Web Security.**
-- 🔥 Passionate about **Frontend Development, UI/UX, and Building Scalable Web Apps.**
+- 👨‍💻 I'm a **Full Stack Developer** specializing in the **MERN Stack**.
+- 🚀 Comfortable working with **PostgreSQL, Prisma ORM, MongoDB, Mongoose, Express.js, Node.js, React, Next.js, and Redux**.
+- 🌱 Currently deepening my knowledge in **Prisma**, **PostgreSQL**, and **Advanced Backend Concepts**.
+- 💬 Ask me about **React, JavaScript, Web Security, and Full Stack Development**.
+- 🔥 Passionate about **UI/UX, Scalable Web Applications**, and delivering end-to-end solutions.
 - 📫 Reach me at: **mubasshiralkasshaf22@gmail.com**
-- 🎯 Goal: Master Full-Stack Development .
+- 🎯 Goal: Keep growing as a **high-impact Full Stack Developer** and contribute to meaningful projects.
 
 ---
 
