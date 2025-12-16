@@ -1,52 +1,128 @@
-<h1 align="center">Hi 👋, I'm S. M. Mubasshir AL Kasshaf</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Specialist </h3>
+<!-- ===== HEADER / BANNER ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=S.%20M.%20Mubasshir%20Al%20Kasshaf&fontSize=38&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Specialist&descAlignY=55" />
+</p>
+
+<h2 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1643514058/16682/blob-wave.gif" width="30"/>
+  Hi there, I'm Mubasshir
+</h2>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mubasshir14&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshir14" />
+  <img src="https://komarev.com/ghpvc/?username=mubasshir14&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mubasshir14&theme=onedark&no-frame=false&margin-w=15" alt="mubasshir14" />
+  🚀 Full Stack Developer passionate about building scalable, secure,
+  and user-centric web applications.
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🧑‍💻 MERN Stack & Next.js Developer  
+- 🗄️ Backend focused on **PostgreSQL, Prisma & MongoDB**
+- 🌱 Learning **Advanced Backend Architecture & Database Design**
+- 💬 Ask me about **React, Node.js, Web Security, APIs**
+- 📫 Email: **mubasshiralkasshaf22@gmail.com**
+- 🌐 Portfolio: [developer-portfolio-eta-two.vercel.app](https://developer-portfolio-eta-two.vercel.app)
+
+---
+
+<!-- ===== TECH STACK & BLOGS ===== -->
+<h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+
+<picture>
+  <!-- Dark mode -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/mubasshir14/mubasshir14/main/Skills_Animation_Dark.gif">
+
+  <!-- Light mode -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/mubasshir14/mubasshir14/main/Skills_Animation_White.gif">
+
+  <!-- Fallback -->
+  <img 
+    align="left"
+    width="38%"
+    alt="Tech Stack Animation"
+    src="https://raw.githubusercontent.com/mubasshir14/mubasshir14/main/Skills_Animation_Dark.gif">
+</picture>
+
+<h3 align="left">Tech Stack</h3>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,express,mongodb,postgres,prisma,mongoose,tailwind,bootstrap,html,css,git,github,figma,python,cpp,java" />
+</p>
+
+<h3 align="left">Current Focus</h3>
+<ul align="left">
+  <li>Building scalable full-stack applications using MERN & Next.js</li>
+  <li>Advanced backend development with PostgreSQL & Prisma ORM</li>
+  <li>System design, API security & performance optimization</li>
+</ul>
+
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to">🔥 Full Stack Development & React</a></li>
+  <li><a href="https://dev.to">⚡ Backend Architecture & Databases</a></li>
+  <li><a href="https://dev.to">🚀 Real-world project learnings</a></li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mubasshir14&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mubasshir14&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir14&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubasshir14&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="mailto:mubasshiralkasshaf22@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail.png" />
+  </a>
+  <a href="https://linkedin.com/in/smmubasshiralkasshaf">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" />
+  </a>
+  <a href="https://github.com/mubasshir14">
+    <img src="https://img.icons8.com/fluency/48/github.png" />
+  </a>
+  <a href="https://developer-portfolio-eta-two.vercel.app/">
+    <img src="https://img.icons8.com/color/48/domain.png" />
   </a>
 </p>
 
 ---
 
-### 💡 About Me:
-- 👨‍💻 I'm a **Full Stack Developer** specializing in the **MERN Stack**.
-- 🚀 Comfortable working with **PostgreSQL, Prisma ORM, MongoDB, Mongoose, Express.js, Node.js, React, Next.js, and Redux**.
-- 🌱 Currently deepening my knowledge in **Prisma**, **PostgreSQL**, and **Advanced Backend Concepts**.
-- 💬 Ask me about **React, JavaScript, Web Security, and Full Stack Development**.
-- 🔥 Passionate about **UI/UX, Scalable Web Applications**, and delivering end-to-end solutions.
-- 📫 Reach me at: **mubasshiralkasshaf22@gmail.com**
-- 🎯 Goal: Keep growing as a **high-impact Full Stack Developer** and contribute to meaningful projects.
-
----
-
-### 🛠️ Tech Stack:
+<!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,express,mongodb,postgres,prisma,mongoose,tailwind,bootstrap,html,css,figma,git,github,python,c,cpp,java,numpy,pandas" />
-</p>
-
----
-
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mubasshir14&show_icons=true&theme=tokyonight&hide_border=true" alt="mubasshir14" width="49%"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mubasshir14&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir14&layout=compact&theme=tokyonight&hide_border=true" width="49%">
-</p>
-
----
-
-### 📬 Connect With Me:
-<p align="center">
-  <a href="https://linkedin.com/in/smmubasshiralkasshaf"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://fb.com/mubasshir%20al%20kasshaf"><img src="https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
-  <a href="https://codeforces.com/profile/mubasshir_15"><img src="https://img.shields.io/badge/CodeForces-1F8ACB.svg?style=for-the-badge&logo=codeforces&logoColor=white" alt="CodeForces" /></a>
-  <a href="https://developer-portfolio-eta-two.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
 </p>
