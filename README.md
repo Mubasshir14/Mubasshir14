@@ -3,32 +3,38 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=S.%20M.%20Mubasshir%20Al%20Kasshaf&fontSize=38&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Specialist&descAlignY=55" />
 </p>
 
-<h2 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514058/16682/blob-wave.gif" width="30"/>
-  Hi there, I'm Mubasshir
-</h2>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mubasshir14&label=Profile%20Views&color=0e75b6&style=flat" />
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴍᴜʙᴀssʜɪʀ! 
+*Full Stack Developer (MERN Stack Specialist)*
+<br /> 
+
+<!--Start Intro-->               
+<p align="left">
+I am a Full Stack Developer with a strong passion for building scalable, secure and user-focused web applications.
+I enjoy working across the stack using modern JavaScript technologies and robust backend systems.
 </p>
 
-<p align="center">
-  🚀 Full Stack Developer passionate about building scalable, secure,
-  and user-centric web applications.
+- 🌱 Currently deepening my knowledge in **Prisma, PostgreSQL, and advanced backend concepts**
+- 💁‍♂️ Passionate about **clean architecture, UI/UX, and performance optimization**
+- ✍ I enjoy learning and sharing knowledge through real-world projects
+- ❤ Actively exploring and contributing to meaningful projects
+- 💻 Visit my [Portfolio](https://developer-portfolio-eta-two.vercel.app/) for more details about my work
+<!--End Intro-->
+
+<!--Profile Count Badge-->
+<p align="left">
+  <img 
+    src="https://komarev.com/ghpvc/?username=mubasshir14&label=Profile%20views&color=0e75b6&style=for-the-badge&logo=github" 
+    alt="mubasshir14" 
+    style="padding-right:20px;" 
+  />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-- 🧑‍💻 MERN Stack & Next.js Developer  
-- 🗄️ Backend focused on **PostgreSQL, Prisma & MongoDB**
-- 🌱 Learning **Advanced Backend Architecture & Database Design**
-- 💬 Ask me about **React, Node.js, Web Security, APIs**
-- 📫 Email: **mubasshiralkasshaf22@gmail.com**
-- 🌐 Portfolio: [developer-portfolio-eta-two.vercel.app](https://developer-portfolio-eta-two.vercel.app)
-
----
 
 <!-- ===== TECH STACK & BLOGS ===== -->
 <h2 align="left">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
@@ -48,7 +54,7 @@
   <!-- Fallback -->
   <img 
     align="center"
-    width="38%"
+    width="50%"
     alt="Tech Stack Animation"
     src="https://raw.githubusercontent.com/mubasshir14/mubasshir14/main/Skills_Animation_Dark.gif">
 </picture>
@@ -62,25 +68,40 @@
 
 
 
----
-
-
-
 ## 📊 GitHub Stats
-
-<p align="center">
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mubasshir14&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
+    </td>
+    <td width="50%">
+     <p align="center">
   <img src="https://streak-stats.demolab.com?user=mubasshir14&theme=tokyonight&hide_border=true" />
 </p>
-
-<p align="center">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mubasshir14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+    </td>
+    <td width="50%">
+    <p align="center">
+  <img 
+    align="center" 
+    width="470" 
+    src="https://github-readme-stats.vercel.app/api/pin/?username=mubasshir14&repo=shalford-ecommerce-client&theme=tokyonight&show_owner=true&hide_border=true"
+    alt="University Management Client"
+  />
+</p>  
+    </td>
+    
+  </tr>
+</table>
 
----
 
 ## 📈 Contribution Graph
 
@@ -88,7 +109,17 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mubasshir14&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mubasshir14&theme=radical&margin-w=10" />
+</p>
+
+<p align="center">
+  <i>If trophies are not visible, please refresh or check back later.</i>
+</p>
+
+
 
 ## 🤝 Connect With Me
 
@@ -107,7 +138,6 @@
   </a>
 </p>
 
----
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
