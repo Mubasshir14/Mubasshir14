@@ -31,9 +31,10 @@
 ---
 
 <!-- ===== TECH STACK & BLOGS ===== -->
-<h2 align="center">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
+<h2 align="left">🛠️ Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2>
 
-<picture>
+<p align="center"> 
+<picture >
   <!-- Dark mode -->
   <source 
     media="(prefers-color-scheme: dark)" 
@@ -46,38 +47,24 @@
 
   <!-- Fallback -->
   <img 
-    align="left"
+    align="center"
     width="38%"
     alt="Tech Stack Animation"
     src="https://raw.githubusercontent.com/mubasshir14/mubasshir14/main/Skills_Animation_Dark.gif">
 </picture>
-
-<h3 align="left">Tech Stack</h3>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,express,mongodb,postgres,prisma,mongoose,tailwind,bootstrap,html,css,git,github,figma,python,cpp,java" />
 </p>
 
-<h3 align="left">Current Focus</h3>
-<ul align="left">
-  <li>Building scalable full-stack applications using MERN & Next.js</li>
-  <li>Advanced backend development with PostgreSQL & Prisma ORM</li>
-  <li>System design, API security & performance optimization</li>
-</ul>
 
-<h3 align="left">Latest Blog Posts</h3>
-<ul align="left">
-  <li><a href="https://dev.to">🔥 Full Stack Development & React</a></li>
-  <li><a href="https://dev.to">⚡ Backend Architecture & Databases</a></li>
-  <li><a href="https://dev.to">🚀 Real-world project learnings</a></li>
-</ul>
 
-<br />
-<br />
-<br />
-<br />
+<!-- <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,js,ts,nodejs,express,mongodb,postgres,prisma,mongoose,tailwind,bootstrap,html,css,git,github,figma,python,cpp,java" />
+</p> -->
+
+
 
 ---
+
+
 
 ## 📊 GitHub Stats
 
